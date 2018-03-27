@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Sanctuary.unity
+  isLoaded: 1
+  isActive: 1
